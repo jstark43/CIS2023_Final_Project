@@ -5,7 +5,7 @@ A bash script designed to count from 1 to 50 and output to the terminal. This pr
 
 ## Documentation
 For full project details, including screenshots of the build process and execution, please refer to:
-* `docs/Final_Project_Documentation.odt`
+* `Documentation/Final_Project_Documentation.odt`
 
 ## How to Run
 1. Ensure the script has execute permissions: `chmod +x counter.sh`
